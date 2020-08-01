@@ -1,4 +1,6 @@
 class Dog 
 end
 
-lassie 
+lassie = Dog.new 
+fido = Dog.new 
+rover = Dog.new 
